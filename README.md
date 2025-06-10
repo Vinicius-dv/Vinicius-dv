@@ -47,7 +47,6 @@
   
 - 💧 [**Água Rio**](https://agua-rio.onrender.com/)  
   Sistema full stack para denúncias de irregularidades em contas de água.  
-  [Código]()
 
 - 📚 [**Learnify Cursos**](https://vinicius-dv.github.io/plataforma_cursos/)  
   Plataforma de cursos online com autenticação e formulário de inscrição.  
