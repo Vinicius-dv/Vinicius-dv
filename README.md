@@ -43,11 +43,11 @@
 ### 📌 Projetos em Destaque
 - 🔥 [**Portfólio**](https://portifolio-vqqk.onrender.com/)  
   Portfólio minimalista com foco em praticidade.  
-  [Código](https://github.com/Vinicius-dv/Portfólio_dev)
+  [Código](https://github.com/Vinicius-dv/Portfolio_dev)
   
 - 💧 [**Água Rio**](https://agua-rio.onrender.com/)  
   Sistema full stack para denúncias de irregularidades em contas de água.  
-  [Código](https://github.com/Vinicius-dv/projeto_agua)
+  [Código]()
 
 - 📚 [**Learnify Cursos**](https://vinicius-dv.github.io/plataforma_cursos/)  
   Plataforma de cursos online com autenticação e formulário de inscrição.  
@@ -55,7 +55,7 @@
 
 - 🏋️ [**Summer Project**](https://vinicius-dv.github.io/Projeto_academia/)  
   Site completo para academias, com sistema de contato e design moderno.  
-  [Código](https://github.com/Vinicius-dv/Projeto_academia)
+  [Código](https://github.com/Vinicius-dv/plataforma_cursos)
 
 - 🌴 [**Recanto**](https://vinicius-dv.github.io/area_de_lazer/)  
   Plataforma para áreas de lazer com formulário de agendamento.  
