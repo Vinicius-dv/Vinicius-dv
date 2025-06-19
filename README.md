@@ -58,7 +58,7 @@
 
 - 💻 [**Freela Jovem**](https://github.com/Vinicius-dv/plataforma_freelancer)  
   Plataforma Freelancer focado em    úsuarios sem expêriencia
-  [Código](https://github.com/Vinicius-dv/area_de_lazer)
+  [Código](https://github.com/Vinicius-dv/plataforma_freelancer)
 ---
 
 ### 📈 GitHub Stats
