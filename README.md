@@ -56,8 +56,8 @@
   Site completo para academias, com sistema de contato e design moderno.  
   [Código](https://github.com/Vinicius-dv/plataforma_cursos)
 
-- 🌴 [**Recanto**](https://vinicius-dv.github.io/area_de_lazer/)  
-  Plataforma para áreas de lazer com formulário de agendamento.  
+- 💻 [**Freela Jovem**](https://github.com/Vinicius-dv/plataforma_freelancer)  
+  Plataforma Freelancer focado em    úsuarios sem expêriencia
   [Código](https://github.com/Vinicius-dv/area_de_lazer)
 ---
 
